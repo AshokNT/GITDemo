@@ -11,6 +11,8 @@ public class B {
 		System.out.println("Hello add from eclipse");
 		System.out.println("Hello add from eclipse 2");
 		System.out.println("Hello add from eclipse 3");
+		System.out.println("Line added while deleting filesin B");
+
 	}
 
 }
