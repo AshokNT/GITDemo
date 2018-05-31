@@ -9,6 +9,8 @@ public class B {
 	{
 		System.out.println("TestCase1");
 		System.out.println("Hello add from eclipse");
+		System.out.println("Hello add from eclipse 2");
+		System.out.println("Hello add from eclipse 3");
 	}
 
 }
